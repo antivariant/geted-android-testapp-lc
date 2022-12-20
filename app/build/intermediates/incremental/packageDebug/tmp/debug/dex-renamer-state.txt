@@ -1,4 +1,4 @@
-#Sun Dec 04 18:46:38 EET 2022
+#Tue Dec 20 17:52:52 EET 2022
 base.2=/Users/antivariant/Documents/Business/GetEd/AndroidTestApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
 path.2=1/classes.dex
 base.1=/Users/antivariant/Documents/Business/GetEd/AndroidTestApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
